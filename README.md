@@ -149,7 +149,7 @@ export const personalData = {
   description: "My name is ANKIT KUMAR....",
   email: "ankit.kumar.info36@gmail.com",
   phone: "+918102025681",
-  address: "Dhaka, Bangladesh",
+  address: "Gurugram, Haryana",
   github: "https://github.com/CodeWithAnkit12",
   facebook: "https://www.facebook.com/profile.php?id=100014238455623",
   linkedIn: "https://www.linkedin.com/in/ankit-kumar-19482b242/",
@@ -157,7 +157,6 @@ export const personalData = {
   stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
   leetcode: "https://leetcode.com/u/ankit_51/",
   devUsername: "CodewithAnkit12",
-  resume: "...",
 };
 ```
 
