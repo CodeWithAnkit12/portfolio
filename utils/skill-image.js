@@ -82,7 +82,10 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
-
+import redux from '../app/assets/svg/skills/redux.svg'
+import nodejs from '../app/assets/svg/skills/nodejs.svg'
+import expressjs from '../app/assets/svg/skills/expressjs.svg'
+import redis from '../app/assets/svg/skills/redis.svg'
 
 
 export const skillsImage = (skill) => {
@@ -114,6 +117,14 @@ export const skillsImage = (skill) => {
       return nuxtJS;
     case 'react':
       return react;
+    case 'redux':
+      return redux;
+    case 'node js':
+      return nodejs;
+    case 'express js':
+      return expressjs;
+    case 'redis':
+      return redis;
     case 'svelte':
       return svelte;
     case 'typescript':
