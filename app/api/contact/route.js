@@ -1,6 +1,11 @@
 import axios from 'axios';
 import { NextResponse } from 'next/server';
 import nodemailer from 'nodemailer';
+import { useEffect } from "react";
+
+useEffect(() => {
+  console.log("Running only in browser:", document.title);
+}, []);
 
 // Create and configure Nodemailer transporter
 const transporter = nodemailer.createTransport({
