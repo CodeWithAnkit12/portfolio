@@ -1,6 +1,6 @@
 export const personalData = {
   name: "ANKIT KUMAR",
-  profile: '/profile.png',
+  profile: "/profile.jpg",
   designation: "Software Engineer",
   description: ["I am Ankit Kumar, a dedicated Full Stack Engineer with expertise in TypeScript, React, Next.js, Node.js, Express.js and solved over 500+ problem across different competetive platform. Having recently graduated, I am now working professionally in full-stack development, where I build scalable and user-focused web applications.", "Beyond my current role, I am driven by the ambition to grow as a Software Engineer, contributing to end-to-end software solutions that go beyond web applications. I have a strong passion for solving complex coding problems across various platforms, which continuously sharpens my problem-solving skills and enhances my ability to tackle real-world challenges.", "With a solid technical foundation and a self-learning mindset, I am eager to take on opportunities that allow me to expand my expertise across software engineering domains, from system design and backend architecture to cloud-native applications."],
   email: 'ankit.kumar.info36@gmail.com',
