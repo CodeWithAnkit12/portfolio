@@ -1,6 +1,24 @@
 export const projectsData = [
     {
         id: 1,
+        name: 'SyncFlow Automator',
+        description: 'Engineered a full-stack workflow orchestration platform using React, Node.js, NestJS, increasing system processing efficiency by 35%.Built a real-time dashboard UI to visualize workflows, improving operational visibility and reducing task monitoring time by 30% Operationalized secure, token-based authentication across frontend and backend, improving data pro-tection by 50%.',
+        tools: ['Typescript', 'React-Redux', 'Next.js', 'Node.js', 'Express.js', 'MySQL', 'Node Mailer', 'Azure', 'CDN', 'Multer', 'Git'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 2,
+        name: 'SkillLink Pro',
+        description: 'Developed a full-stack networking platform using Next.js, React, Node.js, improving page load speed and SEO performance by 30%. Built reusable frontend components and scalable backend routes, reducing new feature development time by 35%.',
+        tools: ['Typescript', 'React-Redux', 'Next.js', 'Node.js', 'Express.js', 'MySQL', 'Node Mailer', 'Azure', 'CDN', 'Multer', 'Git'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: '',
+    },
+    {
+        id: 3,
         name: 'Marketing Website',
         description: "Developed and deployed a dynamic marketing website for INNOFarms.AI using React.js (frontend) and Node.js/Express (backend). Integrated Microsoft Azure for hosting and ensured a scalable, high-performance deployment environment. The website features a responsive design, user-friendly navigation, and optimized performance for an enhanced user experience. Implemented best practices in web development to ensure security and maintainability.",
         tools: ['Javascript', 'React', 'Node.js', 'Express.js', 'MySQL', 'Node Mailer', 'Azure', 'CDN', 'Multer' , 'Git'],
@@ -9,7 +27,7 @@ export const projectsData = [
         demo: '',
     },
     {
-        id: 2,
+        id: 4,
         name: 'Shop-Sphere',
         description: 'Designed and developed a dynamic e-commerce web application with features like product browsing, search functionality, shopping cart management, and secure checkout. Utilized modern front-end technologies for a responsive and user-friendly interface, and implemented back-end services for efficient data handling and payment integration.',
         tools: ['Typescript', 'React-Redux', 'Next.js', 'Node.js', 'Express.js', 'MySQL', 'Node Mailer', 'Azure', 'CDN', 'Multer', 'Git'],
@@ -17,36 +35,13 @@ export const projectsData = [
         code: '',
         demo: '',
     },
-    // {
-    //     id: 3,
-    //     name: '',
-    //     description: '',
-    //     tools: [],
-    //     role: '',
-    //     code: '',
-    //     demo: '',
-    // },
-    // {
-    //     id: 4,
-    //     name: '',
-    //     description: '',
-    //     tools: [],
-    //     role: '',
-    //     code: '',
-    //     demo: '',
-    // },
+    {
+        id: 5,
+        name: 'Generative AI Automation Exposure',
+        description: 'Integrated LLM-based APIs (OpenAI / Gemini-style workflows) into backend services for intelligent data extraction and decision support. Developed a user-friendly interface to manage and monitor AI-driven automation processes, enhancing operational efficiency and user engagement.',
+        tools: ['Node.js', 'TypeScript', 'OpenAI API', 'Gemini API', 'REST APIs', 'Prompt Engineering', 'JSON', 'CDN', 'Multer', 'Git'],
+        role: 'Full Stack Developer',
+        code: '',
+        demo: '',
+    },
 ];
-
-
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-// },
